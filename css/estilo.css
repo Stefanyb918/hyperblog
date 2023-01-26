@@ -21,7 +21,7 @@ body
 #container
 {
     width :70%;
-    padding:1em ;
+    padding-top:1em ;
     text-align :left;
     border-style: solid;
     border-color: #DDD;
